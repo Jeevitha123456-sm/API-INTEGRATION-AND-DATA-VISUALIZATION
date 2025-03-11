@@ -12,6 +12,7 @@
 "MENTOR":Sravani
 
 # Understanding API Integration
+
 An API (Application Programming Interface) allows us to communicate with an external service to retrieve data.
 Public APIs like OpenWeatherMap provide data that we can use in applications.
 
