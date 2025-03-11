@@ -32,3 +32,6 @@ seaborn → For more advanced, stylish visualizations.
 Fetched real-time weather data using the OpenWeatherMap API.
 Extracted key weather parameters (temperature, humidity, pressure).
 Visualized data using both Matplotlib and Seaborn.
+![Image](https://github.com/user-attachments/assets/fd40d4f5-786f-4758-8913-5ef081f9b99a)
+
+![Image](https://github.com/user-attachments/assets/f6b66c60-f3b2-4e57-bc5c-aaf0a0ffe965)
